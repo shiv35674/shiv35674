@@ -10,7 +10,7 @@ Web Developer and Programmer
 * 🧠  I'm learning Html, CSS. Javascript, React, Three js, Next js, TypeScript, Solidity
 * 🤝  I'm open to collaborating on customer centric projects contributing to the society
 * ⚡  I love playing chess
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
 ### Skills
 
 
